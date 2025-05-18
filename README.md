@@ -48,12 +48,3 @@ To get started with a specific project, follow these steps:
 
 5. If you encounter any issues or have questions during the tutorial, feel free to open an issue in this repository. We encourage collaboration and learning together!
 
-## Contributing
-
-If you find any bugs, have suggestions for improvements, or want to add more features to the projects, we welcome your contributions! Simply fork this repository, make your changes, and submit a pull request.
-
-## About the Author
-
-This tutorial series is created and presented by [Agnel John](https://www.youtube.com/@ErrorMakesClever), a passionate web developer with a goal to share knowledge and help others learn HTML effectively.
-
-Enjoy the journey of learning HTML and building exciting projects with us! Happy coding! 🚀🎉
